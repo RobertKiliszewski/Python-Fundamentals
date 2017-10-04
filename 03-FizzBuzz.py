@@ -3,7 +3,6 @@
 #Created by: Robert Kiliszewski
 #03/10/2017
 
-
 for num in range(1,101):
 
 	if num % 5 == 0 and num % 3 == 0:
